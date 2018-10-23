@@ -67,4 +67,4 @@ TidySet <- aggregate(. ~subjectId + activityId, setWithActivityNames, mean)
 TidySet <- TidySet[order(TidySet$subjectId, TidySet$activityId),]
 
 # writing tidy data set
-#write.table(TidySet, "TidySet.txt", row.name=FALSE)
+write.table(TidySet, "TidySet.txt", row.name=FALSE)
