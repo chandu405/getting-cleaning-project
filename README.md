@@ -1,5 +1,8 @@
 # getting and cleaning Data project
 
+This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", 
+available in coursera
+
 This repository contains the following files:
 
 README.md, this file, which provides an overview of the data set and how it was created.
