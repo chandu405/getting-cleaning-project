@@ -7,6 +7,13 @@ The structure of the data set is described in the Data section, its variables ar
 and the transformations that were carried out to obtain the data set based on the source data are presented in the 
 Transformations section.
 
+About source data:
+
+sourse data for work was used Human Activity Recognition Using Smartphones Data Set.
+Links:
+ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+ 
 Data:
 
 The TidySet.txt data file is a text file, containing space-separated values.
